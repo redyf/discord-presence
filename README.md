@@ -1,5 +1,5 @@
-# Discord RPC feito com pypresence
+# Discord RPC made with pypresence
 
-Objetivo: Criar um custom RPC que mostrasse algumas informações do meu sistema no discord, por diversão é claro. De acordo com o clyde (Bot do discord) isso não é contra os termos de uso do discord, então não se preocupe. Isso caso você não tenha nenhuma ideia maliciosa para aplicar no RPC é claro.
+Objetive: Create a custom RPC that would show some information from my system on discord, for fun of course. According to clyde (discord's bot) this is not against the terms of use, so don't worry. That if you don't have any malicious ideas to apply in the RPC of course.
 
-Você foi avisado!
+You've been warned!
