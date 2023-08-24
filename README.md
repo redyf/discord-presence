@@ -4,4 +4,4 @@ Objetive: Create a custom RPC that would show some information from my system on
 
 You've been warned!
 
-Showcase: https://cdn.discordapp.com/attachments/936962716038479992/1144323935127748739/image.png
+Showcase: <![Discord_rich_presence](https://cdn.discordapp.com/attachments/936962716038479992/1144323935127748739/image.png) 
